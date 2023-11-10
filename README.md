@@ -1,5 +1,3 @@
-# Best Choice ReadMe
-
 # 프로젝트 소개
 <p> 💭 인생은 B(Birth)와 D(Death)사이의 C(Choice). <br />
 고민되는 선택의 순간들과 세간의 핫한 이슈들에 대해 함께 의견을 나눌 수 있다면 어떨까?
