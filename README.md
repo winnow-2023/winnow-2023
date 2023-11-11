@@ -5,14 +5,14 @@
 💬 자유롭게 <b>게시글을 올리고</b> <b>투표 받을 수 있는</b> 커뮤니티를 만들어보자! <br />
 💬 원한다면 채팅으로 <b>토론</b>도 가능! </p>
 
-💡Best Choice는 사용자가 <b>투표</b> 게시글을 업로드할 수 있고, <b>실시간 다인원 채팅</b>과 <b>실시간 알림 서비스</b>를 제공하는 웹 서비스입니다. 
+💡Best Choice는 사용자가 <b>투표</b> 게시글을 업로드할 수 있고, <b>실시간 다인원 채팅</b>과 <b>실시간 알림 서비스</b>를 제공하는 커뮤니티 웹 서비스입니다. 
 
 <br />
    
 **프로젝트 기간**: 2023.08 ~ 2023. 09
 
 **배포 주소**: 👉 <a href=https://best-choice-steel.vercel.app/> Best Choice 바로가기 </a> <br />
-**노션 링크**: 👉 <a href=https://www.notion.so/24f4076f1800490886cd4e68fcb4ee52> 프로젝트 노션 바로가기 </a>
+**노션 링크**: 👉 <a href=https://thin-detail-b74.notion.site/Winnow-Best-Choice-4cf6c8446c1f4449a790f242ed217d23> 프로젝트 노션 바로가기 </a>
 
 <br />
 
